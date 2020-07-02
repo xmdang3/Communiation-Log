@@ -4,6 +4,11 @@ body {
   font-family: 'Sacramento', cursive;
   font-size: 150%;
   margin: 5em 25%;
+  
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
 }
 
 p {
